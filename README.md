@@ -77,7 +77,7 @@ gradle clean test
   <img title="Selenoid Video" src="images/gif/Test.gif">
 </p>
 
-## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](http://51.250.107.11:8080/job/QA_TEST_PROJECT/allure/)
+## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](http://51.250.107.11:8080/job/QATESTPROJECT/allure/)
 
 ### :pushpin: Общая информация
 
