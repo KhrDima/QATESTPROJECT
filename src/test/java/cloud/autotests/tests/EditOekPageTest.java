@@ -24,10 +24,10 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class EditOekPageTest extends TestBase{
 
-    @BeforeAll
-    static void configureBaseUrl() {
-        Configuration.baseUrl = Project.config.webUrl2();
-    }
+//     @BeforeAll
+//     static void configureBaseUrl() {
+//         Configuration.baseUrl = Project.config.webUrl2();
+//     }
 
     @Test
     @DisplayName("Провекра сохранения изменений при редактировании платежа из корзины")
