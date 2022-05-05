@@ -72,16 +72,9 @@ gradle clean test
 + *Для запуска сборки необходимо нажать на кнопку <code><strong>*Собрать с параметрами*</strong></code>.*
 + *Нажать на кнопку <code><strong>*Собрать*</strong></code>.*
 
+> Запуск тестов в Jenkins.
 <p align="center">
-  <img src="images/screens/Jenkins.png" alt="job" width="800">
-</p>
-
-*После выполнения сборки, в блоке <code><strong>*История сборок*</strong></code> напротив номера сборки появится
-значок <img width="2%" title="Allure Report" src="images/logo/Allure.svg"><code><strong>*Allure
-Report*</strong></code>, кликнув по которому, откроется страница с сформированным html-отчетом.*
-
-<p align="center">
-  <img src="images/screens/Jenkins2.png" alt="job" width="1000">
+  <img title="Selenoid Video" src="images/gif/Test.gif">
 </p>
 
 ## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](http://51.250.107.11:8080/job/QA_TEST_PROJECT/allure/)
