@@ -68,7 +68,7 @@ gradle clean test
 + *Перейдите по ссылке [Jenkins](http://51.250.107.11:8080/login?from=%2F)*
 + *Введите логин ***user****
 + *Введите пароль ***1qaz!QAZ****
-+ *Перейти в QA_TEST_PROJECT*
++ *[Перейти в QA_TEST_PROJECT](http://51.250.107.11:8080/job/QA_TEST_PROJECT/)*
 + *Для запуска сборки необходимо нажать на кнопку <code><strong>*Собрать с параметрами*</strong></code>.*
 + *Нажать на кнопку <code><strong>*Собрать*</strong></code>.*
 
