@@ -92,7 +92,7 @@ gradle clean test
 >- [x] <code><strong>*EXECUTORS*</strong></code> - отображает исполнителя текущей сборки (ссылка на сборку в Jenkins)
 
 <p align="center">
-  <img src="images/screens/Alure_Report3.png" alt="Allure Report" width="900">
+  <img src="images/screens/jenkins1.png" alt="Allure Report" width="900">
 </p>
 
 
