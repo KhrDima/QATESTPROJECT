@@ -71,7 +71,7 @@ gradle clean test
 + *[Перейти в QATESTPROJECT](http://51.250.107.11:8080/job/QATESTPROJECT/)*
 + *Для запуска сборки необходимо нажать на кнопку <code><strong>*Собрать с параметрами (Build with Parameters)*</strong></code>.*
 + *Выбрать необходимые параметры*
-+ *Нажать на кнопку <code><strong>*Собрать*</strong></code>.*
++ *Нажать на кнопку <code><strong>*Собрать (Build)*</strong></code>.*
 
 > Запуск тестов в Jenkins.
 <p align="center">
