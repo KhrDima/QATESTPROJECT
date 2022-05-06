@@ -30,7 +30,7 @@ public class EditOekPageTest extends TestBase{
 //     }
 
     @Test
-    @DisplayName("Провекра сохранения изменений при редактировании платежа из корзины")
+    @DisplayName("Проверка сохранения изменений при редактировании платежа из корзины")
     public void oekPayTest(){
 
         step("Открытие страницы поставщика", () ->{open(Project.config.webUrl2());});
