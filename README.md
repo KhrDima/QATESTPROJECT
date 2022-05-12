@@ -63,12 +63,12 @@ gradle clean test
 
 
 
-## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](http://51.250.107.11:8080/login?from=%2F)
+## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в [Jenkins](http://51.250.99.248:8080/login?from=%2F)
 
-+ *Перейдите по ссылке [Jenkins](http://51.250.107.11:8080/login?from=%2F)*
++ *Перейдите по ссылке [Jenkins](http://51.250.99.248:8080/login?from=%2F)*
 + *Введите логин ***user****
 + *Введите пароль ***1qaz!QAZ****
-+ *[Перейти в QATESTPROJECT](http://51.250.107.11:8080/job/QATESTPROJECT/)*
++ *[Перейти в QATESTPROJECT](http://51.250.99.248:8080/job/QATESTPROJECT/)*
 + *Для запуска сборки необходимо нажать на кнопку <code><strong>*Собрать с параметрами (Build with Parameters)*</strong></code>.*
 + *Выбрать необходимые параметры*
 + *Нажать на кнопку <code><strong>*Собрать (Build)*</strong></code>.*
@@ -78,7 +78,7 @@ gradle clean test
   <img title="Selenoid Video" src="images/gif/Test.gif">
 </p>
 
-## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](http://51.250.107.11:8080/job/QATESTPROJECT/allure/)
+## <img width="4%" title="Allure Report" src="images/logo/Allure.svg"> Отчет о результатах тестирования в [Allure Report](http://51.250.99.248:8080/job/QATESTPROJECT/allure/)
 
 ### :pushpin: Общая информация
 
